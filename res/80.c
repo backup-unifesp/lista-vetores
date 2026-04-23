@@ -18,7 +18,7 @@ int main() {
             pos = i;
         }
     }
-    printf("\n\n>>> O valor do maior elemento é %.2f. Ele ocupa a %.0f posição no vetor e foi o %.0f número digitado.", maior, pos, pos+1);
+    printf("\n\n>>> O valor do maior elemento é %.2f. Ele ocupa a %.0f posição no vetor e foi o %.0f° número digitado.", maior, pos, pos+1);
     
     return 0;
 }
